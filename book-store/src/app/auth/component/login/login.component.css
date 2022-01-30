@@ -1,0 +1,15 @@
+
+
+.container{
+    margin-top: 60px;
+}
+
+.border-left{
+    border-left: 1px solid lightgray;
+    height: 100%;
+}
+
+img{
+    height: 400px;
+    width: 800px;
+}
